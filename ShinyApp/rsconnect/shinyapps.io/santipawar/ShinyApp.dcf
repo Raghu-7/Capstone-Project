@@ -1,0 +1,13 @@
+name: ShinyApp
+title: ShinyApp
+username:
+account: santipawar
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 270816
+bundleId: 1206086
+url: https://santipawar.shinyapps.io/ShinyApp/
+when: 1517685165.62471
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: screenshot.pptx.lnk
