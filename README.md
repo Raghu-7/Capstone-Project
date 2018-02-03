@@ -1,6 +1,6 @@
-# Data Science Capstone Project
+## Data Science Capstone Project
 
-## Requirements of the Project
+### Requirements of the Project
 Around the world, people are spending an increasing amount of time on their mobile devices for email, social networking, banking and a whole range of other activities. But typing on mobile devices can be a serious pain. SwiftKey, our corporate partner in this capstone, builds a smart keyboard that makes it easier for people to type on their mobile devices. One cornerstone of their smart keyboard is predictive text models. When someone types:
 
 I went to the
@@ -17,20 +17,20 @@ Two natural language processing quizzes, where you apply your predictive model t
 A Shiny app that takes as input a phrase (multiple words), one clicks submit, and it predicts the next word.
 A 5 slide deck created with R presentations pitching your algorithm and app to your boss or investor.
 
-## Files uploaded for the project
-### filedatagenerator.R
+### Files uploaded for the project
+#### filedatagenerator.R
 Code for dataset download and unzipping
 ReadLine code for each file
 N-gram creation and tokenization
 
-### predictor.R
+#### predictor.R
 Clean data
 Next word prediction
 
-### Files for application
+#### Files for application
 ui.R, server.R, /data, /www, /about
 
-### Files for presentation
+#### Files for presentation
 .md, .Rpres, .html,
 
 ### Application and final presentation
