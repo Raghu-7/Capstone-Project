@@ -28,10 +28,10 @@ Clean data
 Next word prediction
 
 ### Files for application
-ui.R, server.R, .html, .css, /www
+ui.R, server.R, .html, /www
 
 ### Files for presentation
-.md, .Rpres, .html, .css
+.md, .Rpres, .html,
 
 ### Application and final presentation
 #### Links:
