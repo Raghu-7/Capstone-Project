@@ -28,7 +28,7 @@ Clean data
 Next word prediction
 
 ### Files for application
-ui.R, server.R, .html, /www
+ui.R, server.R, /data, /www, /about
 
 ### Files for presentation
 .md, .Rpres, .html,
