@@ -35,5 +35,5 @@ ui.R, server.R, .html, .css, /www
 
 ### Application and final presentation
 #### Links:
-- Application can be viewed at: https://santipawar.shinyapps.io/WordPredictionapp
+- Application can be viewed at: https://santipawar.shinyapps.io/ShinyApp/
 - Presentation can be viewed at http://rpubs.com/santipawar/capstone-presentation
